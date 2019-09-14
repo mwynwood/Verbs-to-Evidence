@@ -1,4 +1,4 @@
-|                                         | Quiz (Multiple Choice) | Quiz (Short Answer) | Voice Recording | Video | Photograph |   |   |   |   |
+|                                         | Quiz (Multiple Choice) | Quiz (Short Answer) | Voice Recording | Video | Photograph | Blog/Journal  | Asynchronous Discussion  | Synchronous Discussion |   |
 |-----------------------------------------|:----------------------:|:-------------------:|:---------------:|:-----:|:----------:|:-:|:-:|:-:|:-:|
 | Define                                  |                        |                     |                 |       |            |   |   |   |   |
 | Describe                                |                        |                     |                 |       |            |   |   |   |   |
