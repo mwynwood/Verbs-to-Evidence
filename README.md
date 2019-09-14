@@ -1,6 +1,5 @@
 |                                         | Quiz (Multiple Choice) | Quiz (Short Answer) | Voice Recording | Video | Photograph |   |   |   |   |
 |-----------------------------------------|:----------------------:|:-------------------:|:---------------:|:-----:|:----------:|:-:|:-:|:-:|:-:|
-| Knowledge and Understanding (Cognitive) |                        |                     |                 |       |            |   |   |   |   |
 | Define                                  |                        |                     |                 |       |            |   |   |   |   |
 | Describe                                |                        |                     |                 |       |            |   |   |   |   |
 | Compare                                 |                        |                     |                 |       |            |   |   |   |   |
@@ -9,7 +8,6 @@
 | Discuss                                 |                        |                     |                 |       |            |   |   |   |   |
 | Explain                                 |                        |                     |                 |       |            |   |   |   |   |
 | List                                    |                        |                     |                 |       |            |   |   |   |   |
-| Skills (Psychomotor)                    |                        |                     |                 |       |            |   |   |   |   |
 | Adjust                                  |                        |                     |                 |       |            |   |   |   |   |
 | Operate                                 |                        |                     |                 |       |            |   |   |   |   |
 | Demonstrate                             |                        |                     |                 |       |            |   |   |   |   |
@@ -19,7 +17,6 @@
 | Open                                    |                        |                     |                 |       |            |   |   |   |   |
 | Load                                    |                        |                     |                 |       |            |   |   |   |   |
 | Develop                                 |                        |                     |                 |       |            |   |   |   |   |
-| Attitudes and Feelings (Affective)      |                        |                     |                 |       |            |   |   |   |   |
 | Listen                                  |                        |                     |                 |       |            |   |   |   |   |
 | Accept                                  |                        |                     |                 |       |            |   |   |   |   |
 | Express                                 |                        |                     |                 |       |            |   |   |   |   |
