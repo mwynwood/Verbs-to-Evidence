@@ -4,13 +4,13 @@
 | Describe    |                        |                     |                 |       |            |              |                         |                        |   |
 | Compare     |                        |                     |                 |       |            |              |                         |                        |   |
 | Contrast    |                        |                     |                 |       |            |              |                         |                        |   |
-| Identify    |                        |                     |                 |       |            |              |                         |                        |   |
-| Discuss     |                        |                     |                 |       |            |              |                         |                        |   |
+| Identify    | :heavy_check_mark:     |                     |                 |       |            |              |                         |                        |   |
+| Discuss     |                        |                     | :heavy_check_mark:|     |            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:    |   |
 | Explain     |                        |                     |                 |       |            |              |                         |                        |   |
 | List        |                        |                     |                 |       |            |              |                         |                        |   |
 | Adjust      |                        |                     |                 |       |            |              |                         |                        |   |
 | Operate     |                        |                     |                 |       |            |              |                         |                        |   |
-| Demonstrate |                        |                     |                 |       |            |              |                         |                        |   |
+| Demonstrate |                        |                     |                 | :heavy_check_mark: |            |              |                         |                        |   |
 | Create      |                        |                     |                 |       |            |              |                         |                        |   |
 | Construct   |                        |                     |                 |       |            |              |                         |                        |   |
 | Assemble    |                        |                     |                 |       |            |              |                         |                        |   |
@@ -21,7 +21,7 @@
 | Accept      |                        |                     |                 |       |            |              |                         |                        |   |
 | Express     |                        |                     |                 |       |            |              |                         |                        |   |
 | Derive      |                        |                     |                 |       |            |              |                         |                        |   |
-| Choose      |                        |                     |                 |       |            |              |                         |                        |   |
+| Choose      | :heavy_check_mark:     |                     |                 |       |            |              |                         |                        |   |
 | Communicate |                        |                     |                 |       |            |              |                         |                        |   |
 | Associate   |                        |                     |                 |       |            |              |                         |                        |   |
 | Discuss     |                        |                     |                 |       |            |              |                         |                        |   |
