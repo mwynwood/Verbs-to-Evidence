@@ -8,7 +8,7 @@ Common verbs are listed down the left column.
 Assessment Tools and Evidence Gathering Techniques are listed across the top.
 
 
-|             | Quiz (Multiple Choice) | Quiz (Short Answer) | Audio Recording | Video | Photograph | Blog/Journal | Asynchronous Discussion | Synchronous Discussion (Recorded) |   |
+|             | Quiz (Multiple Choice) | Quiz (Short Answer) | Audio Recording | Video | Photograph | Blog/Journal | Asynchronous Discussion | Synchronous Discussion (Recorded) | Written Report |  
 |-------------|:----------------------:|:-------------------:|:---------------:|:-----:|:----------:|:------------:|:-----------------------:|:----------------------:|:-:|
 | Define      | :heavy_check_mark:     |                     |                 |       |            |              |                         |                        |   |
 | Describe    |                        | :heavy_check_mark:  |                 |       |            |              |                         |                        |   |
