@@ -3,9 +3,9 @@ Units in [National Training Packages](https://training.gov.au/Search/Training?Se
 
 These verbs can give you clues on to what type of evidence to collect, and direction on how you might assess.
 
-Common verbs are listed down the left column.
+Common **verbs** are listed down the left hand column.
 
-Assessment Tools and Evidence Gathering Techniques are listed across the top.
+**Assessment and Evidence Gathering Techniques** are listed across the top.
 
 
 |             | Quiz (Multiple Choice) | Quiz (Short Answer) | Audio Recording | Video | Photograph | Blog/Journal | Asynchronous Discussion | Synchronous Discussion (Recorded) | Written Report |  
